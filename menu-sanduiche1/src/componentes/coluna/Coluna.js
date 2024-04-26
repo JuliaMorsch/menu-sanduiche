@@ -10,13 +10,13 @@ const Hamburger = (props) => {
   };
 
   const itens = [
-    { title: "Sobre",
+    { title: "Pão",
       link: "/teste"
     },
-    { title: "Contato" },
-    { title: "Regras" },
-    { title: "Teste" },
-    { title: "Teste 2" },
+    { title: "Alface" },
+    { title: "Tomate" },
+    { title: "Queijo" },
+    { title: "Pão" },
   ]
 
   return (
